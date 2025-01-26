@@ -1,8 +1,23 @@
-# React + Vite
+# E-commerce Fullstack Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a fullstack e-commerce application developed as part of an internship task. The application provides an online platform for users to browse, search, and purchase products. It includes both frontend and backend components, offering a comprehensive solution for e-commerce operations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- User registration and authentication
+- Product browsing and searching
+- Shopping cart and order management
+- Payment gateway integration
+- Admin dashboard for product and order management
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/KHRM82/ecommerce-fullstack-design.git
+   cd ecommerce-fullstack-design
+   ```
